@@ -1,0 +1,1 @@
+//https://docs.npmjs.com/cli/v8/using-npm/scripts#npm-install - site para alguns comandos NPM
